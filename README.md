@@ -148,10 +148,7 @@ Speech-to-text app supporting microphone and audio file transcription using Hugg
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meerabijaz&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meerabijaz&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=meerabijaz&color=blueviolet&style=flat-square" alt="Profile views" />
