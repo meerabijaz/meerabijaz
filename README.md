@@ -105,7 +105,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-59A608)
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?logo=scrapy&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
