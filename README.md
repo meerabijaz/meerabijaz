@@ -52,7 +52,7 @@
 
 ### Tech Stack
 
-*<p align="center">
+<p align="center">
 
 <!-- Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
