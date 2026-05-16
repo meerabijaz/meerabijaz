@@ -157,6 +157,3 @@ Speech-to-text app supporting microphone and audio file transcription using Hugg
 
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meerabijaz&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
