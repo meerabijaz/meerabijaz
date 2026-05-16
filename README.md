@@ -123,12 +123,14 @@
 
 **📄 Document Processor with LLM Integration**  
 Full-stack RAG-based Q&A system for PDF and DOCX files. Modular pipeline (parsing → chunking → embedding → FAISS retrieval → LLM response) processes documents in 7–8 seconds. LangGraph workflow orchestration with query history via SQLAlchemy and PostgreSQL. FastAPI REST endpoints with streaming responses and Streamlit frontend with source citation display.  
+🎥 [Watch Demo](https://github.com/meerabijaz/Document-LLm-Questioner-using-langchain-and-langgraph/blob/main/demo_GRB1w81i.mp4)  
+🔗 [Repository](https://github.com/meerabijaz/Document-LLm-Questioner-using-langchain-and-langgraph)  
 `Python` `LangChain` `LangGraph` `FAISS` `FastAPI` `Streamlit` `PostgreSQL`
 
 ---
 
-**☕ Raft Coffee – AI-Powered Specialty Coffee Platform**  
-Mood-based specialty coffee platform with an AI chatbot that recommends drinks using Retrieval-Augmented Generation (RAG). Built with a React + TypeScript frontend and FastAPI + LangChain backend, powered by FAISS vector search and Groq Llama models. Includes shopping cart functionality, responsive menu browsing, and a secure admin dashboard with Supabase authentication.  
+**☕ Raft Coffee**  
+Mood-based specialty coffee platform for Raft Coffee, Lahore, Pakistan. Features a chatbot that recommends drinks using Retrieval-Augmented Generation (RAG). Built with a React + TypeScript frontend and FastAPI + LangChain backend, powered by FAISS vector search and Groq Llama models. Includes shopping cart functionality, responsive menu browsing, and a secure admin dashboard with Supabase authentication.  
 🎥 [Watch Demo](https://github.com/meerabijaz/Raft-Coffee-Website-Demo/blob/main/raft-demo_YQrctfgs.mp4)  
 `React` `TypeScript` `FastAPI` `LangChain` `FAISS` `Groq API` `Supabase` `Tailwind CSS`
 
@@ -136,14 +138,15 @@ Mood-based specialty coffee platform with an AI chatbot that recommends drinks u
 
 **💬 Real-Time Chat Platform**  
 Real-time chat system with private and group channels, JWT authentication, persistent message history, and online presence tracking. Dynamic AJAX-based interface with Redis pub-sub for scalable WebSocket state management.  
+🔗 [Repository](https://github.com/meerabijaz/Django-Web-Application-Using-DRF-and-Web-Socket)  
 `Django` `Django Channels` `WebSockets` `PostgreSQL` `Redis`
 
 ---
 
 **🎙️ Speech-to-Text Application**  
 Speech-to-text app supporting microphone and audio file transcription using Hugging Face models and Gradio UI.  
+🔗 [Repository](https://github.com/meerabijaz/Speech-to-Text-Application)  
 `Python` `Gradio` `Transformers`
-
 
 ### Certifications
 
